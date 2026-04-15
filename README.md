@@ -1,34 +1,27 @@
-Hi 👋 I'm Manish Kumar
+# Hi 👋 I'm Manish Kumar
 
-🚀 Java Developer | Future Software Engineer
+💻 Java Developer | Future Software Engineer
 
-💻 Passionate about Java & Backend Development
-🌱 Currently Learning Spring Boot and Web Development
-🎯 Goal: Become Job Ready Java Developer in 2026
-
----
-
-🛠 Skills
-
-- Java
+🌱 Currently Learning:
 - Core Java
+- Spring Boot
+- Web Development
+
+🚀 Skills
+- Java
 - OOP Concepts
 - C Programming
 - Git & GitHub
-- HTML & CSS (Learning)
-
----
+- HTML & CSS
 
 📂 Projects
-
-- Bank Account Mini Project
-- Blog Management System
-- SpringBoot Hello Project
+- Bank Account System
 - Student Management System
+- Blog Management System
 
----
+🎯 Goal
+Become Job Ready Java Developer in 2026
 
 📫 Connect With Me
-
 GitHub: https://github.com/codermanishyadav9341-maker
 Email:- codermanishyadav9341@gmail.com
