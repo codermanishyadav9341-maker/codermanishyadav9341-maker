@@ -3,14 +3,14 @@
 💻 Java Developer | Future Software Engineer
 
 🌱 Currently Learning:
-- Core Java
+- SQL
+- MySQL
 - Spring Boot
-- Web Development
+- Html,Css
 
 🚀 Skills
-- Java
+- Core Java
 - OOP Concepts
-- C Programming
 - Git & GitHub
 - HTML & CSS
 
