@@ -1,3 +1,5 @@
+
+<body style="background-color: red">
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 
 <h3 align="center">
@@ -66,3 +68,4 @@
 
 ## ⚡ Fun Fact
 > I turn coffee ☕ into code 💻
+> </body>
