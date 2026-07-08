@@ -1,12 +1,18 @@
+<!-- ================= HEADER ================= -->
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Manish%20Kumar&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Spring%20Boot%20Backend%20Developer&descAlignY=65"/>
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Manish Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=FF4B4B&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Learning+DSA+with+Java;Open+to+Internships" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Building+Production+Projects;Learning+DSA+with+Java;Open+to+Internships" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=codermanishyadav9341-maker&label=Profile%20Views&color=red&style=for-the-badge"/>
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=codermanishyadav9341-maker&label=Profile+Views&color=red&style=for-the-badge"/>
 
 </div>
 
@@ -14,17 +20,11 @@
 
 # 🚀 About Me
 
-💻 Passionate Java Backend Developer
-
-🌱 Currently Learning **Spring Boot, Spring Security & REST APIs**
-
-🚀 Building **Production-Level Backend Projects**
-
-🗄️ Working with **MySQL & JPA/Hibernate**
-
-📚 Solving **DSA Problems using Java**
-
-🎯 Goal: **Become a Job-Ready Java Backend Developer**
+- 🌱 Currently Learning **Spring Boot, Spring Security & REST APIs**
+- 🚀 Working on **Student Management System**
+- 💻 Love Building Backend Projects
+- 📚 Learning **DSA with Java**
+- 🎯 Goal: **Become Job Ready Java Backend Developer**
 
 ---
 
@@ -38,7 +38,7 @@
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -47,6 +47,8 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codermanishyadav9341-maker&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -60,7 +62,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=codermanishyadav9341-maker&theme=radical&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=codermanishyadav9341-maker&theme=radical&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -70,47 +72,35 @@
 
 ## 🎓 Student Management System
 
-✔ Spring Boot
-
-✔ Spring Data JPA
-
-✔ MySQL
-
-✔ REST APIs
-
-✔ Validation
-
-✔ Exception Handling
+- Spring Boot
+- Spring Data JPA
+- REST APIs
+- MySQL
+- Validation
+- Exception Handling
 
 ---
 
 ## 🛒 E-Commerce Backend
 
-✔ Spring Boot
-
-✔ JWT Authentication
-
-✔ Spring Security
-
-✔ MySQL
-
-✔ Role Based Authorization
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- MySQL
+- Role Based Authorization
 
 ---
 
 ## 👨‍💼 Employee Management System
 
-✔ Spring Boot
-
-✔ Hibernate
-
-✔ CRUD APIs
-
-✔ MySQL
+- Spring Boot
+- Hibernate
+- CRUD REST APIs
+- MySQL
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -142,10 +132,18 @@
 
 <div align="center">
 
-## 💡 Quote
+## 💬 Quote
 
-> **"Code. Learn. Build. Repeat."**
+> **"Code • Learn • Build • Repeat 🚀"**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF4B4B&center=true&width=500&lines=Thanks+for+Visiting+My+Profile!;Happy+Coding!+🚀"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF0000&center=true&width=500&lines=Thanks+for+Visiting+My+Profile!;Happy+Coding!+🚀"/>
 
 </div>
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24"/>
+</p>
